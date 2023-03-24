@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DB", "DB.vcxproj", "{669EA47D-2612-4EB9-88AE-ED2F69A1CFC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669EA47D-2612-4EB9-88AE-ED2F69A1CFC0}.Debug|x86.ActiveCfg = Debug|Win32
+		{669EA47D-2612-4EB9-88AE-ED2F69A1CFC0}.Debug|x86.Build.0 = Debug|Win32
+		{669EA47D-2612-4EB9-88AE-ED2F69A1CFC0}.Release|x86.ActiveCfg = Release|Win32
+		{669EA47D-2612-4EB9-88AE-ED2F69A1CFC0}.Release|x86.Build.0 = Release|Win32
+		{669EA47D-2612-4EB9-88AE-ED2F69A1CFC0}.Template|x86.ActiveCfg = Template|Win32
+		{669EA47D-2612-4EB9-88AE-ED2F69A1CFC0}.Template|x86.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E331969A-2E11-472B-B5F4-E193FF68A4B1}
+	EndGlobalSection
+EndGlobal
