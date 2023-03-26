@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DB", "DB.vcxproj", "{4BA430FF-5F7A-48F6-853A-1FB7CADFE2F0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DBServer", "..\OBJECT\DBServer.vcxproj", "{54634346-4A2D-4F73-8888-B33EBC497424}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA430FF-5F7A-48F6-853A-1FB7CADFE2F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BA430FF-5F7A-48F6-853A-1FB7CADFE2F0}.Debug|x86.Build.0 = Debug|Win32
+		{4BA430FF-5F7A-48F6-853A-1FB7CADFE2F0}.Release|x86.ActiveCfg = Release|Win32
+		{4BA430FF-5F7A-48F6-853A-1FB7CADFE2F0}.Release|x86.Build.0 = Release|Win32
+		{4BA430FF-5F7A-48F6-853A-1FB7CADFE2F0}.Template|x86.ActiveCfg = Template|Win32
+		{4BA430FF-5F7A-48F6-853A-1FB7CADFE2F0}.Template|x86.Build.0 = Template|Win32
+		{54634346-4A2D-4F73-8888-B33EBC497424}.Debug|x86.ActiveCfg = Debug|Win32
+		{54634346-4A2D-4F73-8888-B33EBC497424}.Debug|x86.Build.0 = Debug|Win32
+		{54634346-4A2D-4F73-8888-B33EBC497424}.Release|x86.ActiveCfg = Release|Win32
+		{54634346-4A2D-4F73-8888-B33EBC497424}.Release|x86.Build.0 = Release|Win32
+		{54634346-4A2D-4F73-8888-B33EBC497424}.Template|x86.ActiveCfg = Release|Win32
+		{54634346-4A2D-4F73-8888-B33EBC497424}.Template|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {468BEB8D-9443-4F08-932F-4639C07B0979}
+	EndGlobalSection
+EndGlobal
