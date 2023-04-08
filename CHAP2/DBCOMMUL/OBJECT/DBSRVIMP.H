@@ -5,7 +5,7 @@
 
 typedef long HRESULT;
 
-class CDB : public IDB, public IDBAccess, public IDBManage, public IDBInfo {
+class CDB : public IDB, public IDBAccess, public IDBManage, public IDBInfo2 {
   // Interfaces
   public:
 	  	// Interface for data access
