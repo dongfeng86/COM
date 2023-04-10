@@ -1,25 +1,47 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+<<<<<<< HEAD
 VisualStudioVersion = 15.0.28307.1145
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DB", "DB.vcxproj", "{9CA3D976-8551-48A3-B640-8EDEBCE6BFE6}"
+=======
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DB", "DB.vcxproj", "{7F4347E1-0BA9-4ED7-80D3-7F9DD6918718}"
+>>>>>>> origin/main
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
+<<<<<<< HEAD
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9CA3D976-8551-48A3-B640-8EDEBCE6BFE6}.Debug|x86.ActiveCfg = Debug|Win32
 		{9CA3D976-8551-48A3-B640-8EDEBCE6BFE6}.Debug|x86.Build.0 = Debug|Win32
 		{9CA3D976-8551-48A3-B640-8EDEBCE6BFE6}.Release|x86.ActiveCfg = Release|Win32
 		{9CA3D976-8551-48A3-B640-8EDEBCE6BFE6}.Release|x86.Build.0 = Release|Win32
+=======
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F4347E1-0BA9-4ED7-80D3-7F9DD6918718}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F4347E1-0BA9-4ED7-80D3-7F9DD6918718}.Debug|x86.Build.0 = Debug|Win32
+		{7F4347E1-0BA9-4ED7-80D3-7F9DD6918718}.Release|x86.ActiveCfg = Release|Win32
+		{7F4347E1-0BA9-4ED7-80D3-7F9DD6918718}.Release|x86.Build.0 = Release|Win32
+		{7F4347E1-0BA9-4ED7-80D3-7F9DD6918718}.Template|x86.ActiveCfg = Template|Win32
+		{7F4347E1-0BA9-4ED7-80D3-7F9DD6918718}.Template|x86.Build.0 = Template|Win32
+>>>>>>> origin/main
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {9E2D2F54-CC5E-4285-A361-697C14E28901}
+=======
+		SolutionGuid = {EAFC7846-E906-455D-870D-9B77DF4F177C}
+>>>>>>> origin/main
 	EndGlobalSection
 EndGlobal

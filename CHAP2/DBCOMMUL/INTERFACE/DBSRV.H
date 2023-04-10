@@ -53,7 +53,7 @@ class IDBManage : public IUnknown {
 		virtual HRESULT _stdcall Delete(short nTable) =0;
 };
 
-class IDBInfo : public IUnknown {
+class IDBInfo2 : public IUnknown {
 	// Interfase para obtenber informacion sobre la base de datos
 	public:
 		virtual HRESULT _stdcall GetNumTables(short &nNumTables) =0;
